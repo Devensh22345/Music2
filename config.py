@@ -9,7 +9,7 @@ load_dotenv()
 API_ID = "22207976"
 API_HASH = "5c0ad7c48a86afac87630ba28b42560d"
 BOT_TOKEN = "7496441065:AAEZvRjzlTRfYU8OrjAQSGJacV1WDpLxaI8"
-MONGO_DB_URI = "mongodb+srv://Music:Music@cluster0.zlhy5x4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGO_DB_URI = "mongodb+srv://AMR:AMR@cluster0.uwmlaln.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 LOG_GROUP_ID = "-1001942398843"
 OWNER_ID = "6872968794"
